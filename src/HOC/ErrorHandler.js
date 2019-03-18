@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import Modal from '../components/UI/Modal'
-import Aux from './Aux'
+import Aux from './Auxiliary'
 
 //error HOC wrapper that takes the wrapped component and axios which is passed in BurgerBuilder
 const ErrorHandler = (WrappedComponent, axiosInstance) => {

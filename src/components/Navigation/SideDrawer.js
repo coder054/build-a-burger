@@ -1,6 +1,6 @@
 import React from 'react';
 import classes from './SideDrawer.css';
-import Aux from '../../HOC/Aux'
+import Aux from '../../HOC/Auxiliary'
 import SideDrawer from './SideDrawer';
 import NavItems from './NavItems';
 import Logo from '../UI/Logo';

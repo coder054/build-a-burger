@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 import classes from './ContactData.css'
-import Aux from '../../HOC/Aux'
+import Aux from '../../HOC/Auxiliary'
 import Button from '../../components/UI/Button'
 import Spinner from '../../components/UI/LoadingSpinner'
 import axiosInstance from '../../axios-orders'

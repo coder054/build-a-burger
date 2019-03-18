@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import classes from './Layout.css';
-import Aux from '../../HOC/Aux';
+import Aux from '../../HOC/Auxiliary';
 import BurgerBuilder from '../../containers/BurgerBuilder/BurgerBuilder';
 import Toolbar from '../Navigation/Toolbar';
 import SideDrawer from '../Navigation/SideDrawer';
